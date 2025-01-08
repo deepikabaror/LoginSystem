@@ -1,0 +1,5 @@
+/mytodolist
+|-- /templates
+    |-- index.html
+|-- app.py
+|-- README.md

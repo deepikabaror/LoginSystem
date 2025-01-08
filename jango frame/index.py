@@ -14,7 +14,7 @@ root.config(bg="blue")
 
 
 lal_txt = Text(root,font=('Time New Roman',20,"bold"),bg="yellow",fg="pink",border=20)
-lal_txt.place(x=40,y=30,height=300,width=400)
+lal_txt.place(x=40, y=30, height=300,width=400)
 
     # screen.title("Login system")
 
